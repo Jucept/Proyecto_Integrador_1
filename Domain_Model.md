@@ -7,16 +7,16 @@
 >- Possible Attributes: Unique identifier, content, dimensions, weight, storage date, etc.
 
 3. Product: Represents individual items stored within boxes or pallets.
-  - Possible Attributes: Unique identifier, description, quantity, expiration date (if applicable), etc.
+ >- Possible Attributes: Unique identifier, description, quantity, expiration date (if applicable), etc.
 
 4. Indoor Geolocation System: Technological system used to track the location of boxes, pallets, and products within the warehouse.
-  - Possible Attributes: Technology used (e.g., proximity sensors, Bluetooth, RFID, etc.), accuracy, range, etc.
+ >- Possible Attributes: Technology used (e.g., proximity sensors, Bluetooth, RFID, etc.), accuracy, range, etc.
 
 5. Computer Vision-Based Localization System: Technological system that uses cameras and vision algorithms to recognize and track objects within the warehouse.
-  - Possible Attributes: Cameras used, processing capacity, accuracy, etc.
+ >- Possible Attributes: Cameras used, processing capacity, accuracy, etc.
 
 6. Electromagnetic Detection System: System that uses electromagnetic technology to identify the location of objects in the warehouse.
-  - Possible Attributes: Technology used (e.g., RFID, NFC), range, accuracy, etc.
+ >- Possible Attributes: Technology used (e.g., RFID, NFC), range, accuracy, etc.
 
 **Possible Relationships:**
 
