@@ -1,4 +1,4 @@
-### **Requirements Template with MoSCoW Method
+### **Requirements Template with MoSCoW Method**
 ## Project: Goods Warehouse Localization and Traceability System**
 **Must Have Requirements:**
 
