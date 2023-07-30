@@ -1,10 +1,10 @@
 ## Main Entities:
 
 1. Goods Warehouse: Represents the physical location where boxes, pallets, and products are stored.
-  - Possible Attributes: Geographical location, storage capacity, type of stored goods, etc.
+ > - Possible Attributes: Geographical location, storage capacity, type of stored goods, etc.
 
 2. Box/Pallet: Represents the containers of goods stored within the warehouse.
-  - Possible Attributes: Unique identifier, content, dimensions, weight, storage date, etc.
+>- Possible Attributes: Unique identifier, content, dimensions, weight, storage date, etc.
 
 3. Product: Represents individual items stored within boxes or pallets.
   - Possible Attributes: Unique identifier, description, quantity, expiration date (if applicable), etc.
